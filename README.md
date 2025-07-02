@@ -1,6 +1,6 @@
 ### Hi, I'm Ellis 👋
 
-- 👨‍💻 Professionally I've been coding with JavaScript or TypeScript with some PHP on the side for over 8 years. Using things like React, NestJS, and Laravel
+- 👨‍💻 Professionally I'm programming with TypeScript, Java, and Python.
 - 🌱 I’m currently building personal projects using...
   - Go
   - C# + .NET
